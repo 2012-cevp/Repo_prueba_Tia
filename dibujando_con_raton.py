@@ -1,6 +1,9 @@
 import numpy as np 
 import cv2
 
+
+#Agregando una linea de comentario
+
 #Definimos la funcion con la cual dibujaremos con el raton
 #Aquí le decimos que dibujara un circulo dentro de los parametros que le hemos dado
 def dibujar(event,x,y,etiquetas, parametros):
